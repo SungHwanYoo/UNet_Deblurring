@@ -1,8 +1,6 @@
-![image.png](%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%20107647e7d9f480d5896ad788b19b6402/image.png)
+<img width="911" alt="cat" src="https://github.com/user-attachments/assets/62f348c2-fbb4-48ec-a51e-894f1f3592a7">
 
 # UNet based Deblurring
-
----
 
 ### Setting
 
@@ -20,26 +18,20 @@ This code has been tested with Python 3.8.8, Torch 1.10.0
 
 - Setup requirements
 
-<aside>
-
+```
 pip install -r requirements.txt
-
-</aside>
+```
 
 ---
 
 ### Public Datasets
 
-**Dogs vs. Cats :** https://www.kaggle.com/c/dogs-vs-cats
+Dogs vs. Cats : ```https://www.kaggle.com/c/dogs-vs-cats```
 
 ---
 
 ### Start Training
 
-<aside>
-
-python [train.py](http://train.py)
-
-</aside>
-
----
+```
+python train.py
+```
