@@ -1,0 +1,14 @@
+{
+    "train" : {
+        "data_dir" : "dataset/training_set/training_set",
+        "batch_size" : 16
+    },
+    "validation" : {
+        "data_dir" : "dataset/validation_set/validation_set",
+        "batch_size" : 16
+    },
+    "test" : {
+        "data_dir" : "dataset/test_set/test_set",
+        "batch_size" : 16
+    }
+}
