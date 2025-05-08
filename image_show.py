@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import torchvision.transforms as transforms
 from dataloader.Dataset import Cat_Dog_Dataset
 
-def show_image_pair(dataset, index=0):
+def show_image_pair(dataset, index=0)
     # 데이터셋에서 이미지 쌍 가져오기
     blurred_img, original_img = dataset[index]
     
